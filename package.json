@@ -1,0 +1,27 @@
+{
+  "name": "assignment-1-app",
+  "version": "1.0.0",
+  "description": "Midterm assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "expressJS",
+    "nodeJS",
+    "Assignment-I",
+    "API",
+    "mongoDB",
+    "REST",
+    "mongoose",
+    "crypto-js"
+  ],
+  "author": "Pritesh Patel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^4.1.1",
+    "express": "^4.16.3",
+    "mongoose": "^6.6.7"
+  }
+}
